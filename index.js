@@ -1,4 +1,4 @@
 // Code your solution in this file!
-const let companyName = 'Scuber';
+let const companyName = 'Scuber';
 // to pass 2nd test
 
